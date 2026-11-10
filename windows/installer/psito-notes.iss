@@ -53,7 +53,7 @@ Source: "{#Release}\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs cr
 Source: "..\..\LICENSE"; DestDir: "{app}\licenses"; DestName: "LICENSE.txt"; Flags: ignoreversion
 Source: "..\..\THIRD_PARTY_LICENSES.md"; DestDir: "{app}\licenses"; Flags: ignoreversion
 Source: "..\..\assets\LICENSE.md"; DestDir: "{app}\licenses"; DestName: "ART-LICENSE.md"; Flags: ignoreversion
-Source: "..\..\assets\fonts\OFL.txt"; DestDir: "{app}\licenses"; Flags: ignoreversion
+Source: "..\..\assets\fonts\OFL-*.txt"; DestDir: "{app}\licenses"; Flags: ignoreversion
 
 [Icons]
 Name: "{autoprograms}\{#AppName}"; Filename: "{app}\{#AppExe}"; AppUserModelID: "{#AppModelId}"
