@@ -1,0 +1,53 @@
+{
+  "@@locale": "en",
+  "appTitle": "Psito Notes",
+  "newNote": "New note (Ctrl+N)",
+  "deleteNote": "Delete note (Ctrl+D)",
+  "settings": "Paper and text",
+  "backToNote": "Back to the note",
+  "foldNote": "Fold or unfold the note",
+  "noteText": "Note text",
+  "writeHere": "Write something…",
+  "emptyNote": "Empty note",
+  "paper": "Paper",
+  "colorYellow": "Yellow",
+  "colorBlue": "Blue",
+  "colorGreen": "Green",
+  "colorPink": "Pink",
+  "colorPurple": "Purple",
+  "colorWhite": "White",
+  "font": "Font",
+  "fontHand": "Handwritten",
+  "fontPlain": "Plain",
+  "textSize": "Text size",
+  "sizeSmall": "Small",
+  "sizeMedium": "Medium",
+  "sizeLarge": "Large",
+  "sizeHuge": "Huge",
+  "window": "Window",
+  "onTop": "Keep above other windows",
+  "translucent": "Translucent",
+  "format": "Format",
+  "bold": "Bold (Ctrl+B)",
+  "italic": "Italic (Ctrl+I)",
+  "underline": "Underline (Ctrl+U)",
+  "strike": "Strikethrough (Ctrl+T)",
+  "bullets": "List (Ctrl+Shift+L)",
+  "biggerText": "Bigger text (Ctrl+Shift+>)",
+  "smallerText": "Smaller text (Ctrl+Shift+<)",
+  "deleteQuestion": "Delete this note?",
+  "dontAskAgain": "Don't ask again",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "resize": "Resize",
+  "aboutLine": "Psito Notes {version}. No ads, no telemetry and no account.",
+  "@aboutLine": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "aboutLegal": "Code under the Apache 2.0 license. Fonts under the SIL Open Font License.",
+  "tips": "Double-click the strip to fold the note. Ctrl+Z undoes and Ctrl+Y redoes."
+}
